@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -222,4 +221,3 @@ models/
 # Archivos temporales
 .DS_Store
 .ipynb_checkpoints/
->>>>>>> 2c68858 (Primer commit del proyecto modelo predicción fútbol)
